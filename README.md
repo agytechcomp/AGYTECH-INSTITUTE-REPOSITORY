@@ -76,24 +76,24 @@ The "Empowering Women and Youths into the World of Technology" project aims to p
 ## 4. Faculty
 
 ### 4.1 Instructors
-- **Mr. Evans Otieno Songa**
+- **Mr. Sarah Atieno Ogwang**
   - Title: Senior Instructor
   - Specialization: Network Security, Cybersecurity
-  - Contact: evansotieno22@gmail.com
+  - Contact: saoagytech.333@gmail.com
 
-- **Mr. Wycliff Musungu** 
+- **Mr. Paul Tom Odhiambo** 
   - Title: Programming Instructor
   - Specialization: Python, Java, Software Development
-  - Contact: wycliffmusungu@gmail.com
+  - Contact: paultom7979@gmail.com
 
 ### 4.2 Support Staff
-- **Ms. Linet Otieno Osire**
+- **Ms. Mary Yunice Awino**
   - Title: Administrative Assistant
-  - Contact: linetosire45@gmail.com
-
-- **Mr. Samson Amendi**
+  - Contact: maryawino090@gmail.com
+    
+- **Mr. Joseph Rejeh**
   - Title: IT Support Technician
-  - Contact: samsonamendi60@gmail.com
+  - Contact: rejehjoseph5@gmail.com
 ---
 
 ## 5. Admissions
