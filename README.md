@@ -76,7 +76,7 @@ The "Empowering Women and Youths into the World of Technology" project aims to p
 ## 4. Faculty
 
 ### 4.1 Instructors
-- **Mr. Sarah Atieno Ogwang**
+- **Mrs. Sarah Atieno Ogwang**
   - Title: Senior Instructor
   - Specialization: Network Security, Cybersecurity
   - Contact: saoagytech.333@gmail.com
